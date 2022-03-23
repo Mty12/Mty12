@@ -18,5 +18,3 @@ Self educated Data Analyst and a freelancer marketer .
 
 ## Projetos:
 
-
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
